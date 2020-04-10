@@ -1,6 +1,6 @@
 # formApp
 
-MERN JWT + CRUD //Install front and back end use below npm install-all
+//Install front and back end use below npm install-all
 
 //Run command npm run dev
 
